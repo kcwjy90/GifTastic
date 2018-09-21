@@ -1,0 +1,66 @@
+.backgroundImage{
+    background-image: url(../images/background.jpg);
+    background-repeat: repeat;
+    
+}
+
+.title{
+    font-size: 70px;
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+}
+
+.title2{
+    font-size: 20px;
+    color: white;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+}
+
+.navbar-brand{
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+}
+.btn{
+    text-align: center;
+    margin: 3px;
+    font-size: 50px;
+    text-align: center;
+    width: auto;
+    /* height: 40px; */
+    font-family: 'Handlee', cursive;
+}
+
+p{
+    margin: 5px;
+    padding-top: 20px;
+    position: relative;
+    font-size: 15px;
+    text-align: center;
+    width: auto;
+    color: white;
+    /* height: 40px; */
+    font-family: 'Handlee', cursive;
+}
+
+img{
+    right: auto;
+    left: auto;
+    width: 270px;
+    height: 230px;
+    padding: 15px;
+}
+
+.birdbird{
+    width:25%;
+    height:25%;
+    display: inline-table;
+}
+
